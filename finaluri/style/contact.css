@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    position: relative;
+}
+body img {
+    width: 100%;
+    height: 1500px;
+   position: absolute;
+}
+header {
+    height: 70px;
+    background-color: rgb(146, 1, 1);
+    align-items: center;
+}
+header .d-flex{
+    justify-content: space-between;
+}
+header a {
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+}
+.container {
+    width: 1200px;
+    margin: auto;
+}
+.d-flex {
+    display: flex;
+}
+.div1 {
+    position: relative;
+    left: 10px;
+}
+.a1 {
+    margin-left: 25px;
+}
+.a2 {
+    margin-left: 30px;
+}
+.imgico {
+    margin-left: 3px;
+    border-radius: 3px;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+}
+.imgico2 {
+    margin-left: 8px;
+    border-radius: 3px;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+}
+.bodycolor{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+iframe {
+    width: 1000px;
+    margin-left: 200px;
+    margin-top: 35px;
+}
+.contacttarget {
+    color: blue;
+}
+.divinfo {
+    border: 4px solid blue ;
+    border-radius: 20px;
+    margin-left: 400px;
+    width: 550px;
+    padding: 10px 50px;
+    background-color: rgb(146, 1, 1);
+    position: relative;
+    color: white;
+}
